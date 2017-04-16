@@ -18,6 +18,10 @@ namespace Calendar.iOS
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton Test { get; set; }
 
+        [Action ("Test_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void Test_TouchUpInside (UIKit.UIButton sender);
+
         void ReleaseDesignerOutlets ()
         {
             if (Test != null) {
