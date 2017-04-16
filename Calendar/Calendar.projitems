@@ -10,5 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Calendar.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SharedClass.cs" />
   </ItemGroup>
 </Project>

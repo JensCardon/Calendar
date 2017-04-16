@@ -41,5 +41,4 @@ namespace Calendar
 		{
 			// Handle when your app resumes
 		}
-	}
 }
