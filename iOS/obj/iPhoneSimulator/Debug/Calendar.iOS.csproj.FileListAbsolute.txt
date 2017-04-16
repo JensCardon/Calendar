@@ -1,0 +1,6 @@
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\Calendar.iOS.csprojResolveAssemblyReference.cache
+C:\Users\desktop\Source\Repos\Calendar5\iOS\obj\iPhoneSimulator\Debug\Calendar.iOS.csproj.CalendariOS.exe.config
